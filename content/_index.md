@@ -1,21 +1,17 @@
 ---
+type: home
+title: Ot Ratsaphong
+subtitle: Business & Data Analyst, Options Strategist, Coach
+description: Using data science to improve our environment, how we work and how we live. Learning to live life fully and lightly. Join me on my adventures in data science and  financial markets.
+text_align_left: false
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: Sit down, relax, and get to know Hugo Apéro. Built on top of Blogophonic,
-  we wanted to create a polished Hugo theme with the right features for a true personal
-  website. We set out to create a theme that is a pleasure to learn, and one that
-  helps others get to know you better. It is more than a blog, with flexible custom
-  layouts that help you introduce yourself online.
 image_left: false
 images:
 - img/revoir.jpg
 show_action_link: true
 show_social_links: true
-text_align_left: false
-title: Ot Ratsaphong
-subtitle: Business & Data Analyst
-type: home
 ---
 
 ** index doesn't contain a body, just front matter above.

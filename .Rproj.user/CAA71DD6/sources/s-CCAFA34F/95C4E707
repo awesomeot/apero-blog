@@ -3,7 +3,7 @@
     "path": "~/blogdown/apero-blog/content/about/header/index.md",
     "project_path": "content/about/header/index.md",
     "type": "markdown",
-    "hash": "56916487",
+    "hash": "3842306690",
     "contents": "",
     "dirty": false,
     "created": 1630595837645.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "5,5",
+        "cursorPosition": "5,4",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1630595852,
+    "lastKnownWriteTime": 1630599286,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1630595852212,
+    "last_content_update": 1630599286210,
     "read_only": false,
     "read_only_alternatives": []
 }

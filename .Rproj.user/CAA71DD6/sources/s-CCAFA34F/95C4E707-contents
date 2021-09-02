@@ -3,7 +3,7 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Hey, my name is Ot. Nice to meet you.
+  Hi, my name is Ot. Nice to meet you.
 ---
 
 <!-- this is a subheadline -->
